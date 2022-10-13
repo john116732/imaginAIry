@@ -222,7 +222,7 @@ platformdirs==2.5.2
     #   pylint
 pluggy==1.0.0
     # via pytest
-protobuf==3.19.4
+protobuf==3.19.5
     # via
     #   imaginAIry (setup.py)
     #   tb-nightly
