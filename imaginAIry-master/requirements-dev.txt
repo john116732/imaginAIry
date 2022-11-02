@@ -379,7 +379,7 @@ tqdm==4.64.1
     #   pytorch-lightning
     #   realesrgan
     #   transformers
-transformers==4.19.2
+transformers==4.23.0
     # via imaginAIry (setup.py)
 typer==0.6.1
     # via pycln
@@ -401,7 +401,7 @@ werkzeug==2.2.2
     # via
     #   tb-nightly
     #   tensorboard
-wheel==0.37.1
+wheel==0.38.0
     # via
     #   tb-nightly
     #   tensorboard
