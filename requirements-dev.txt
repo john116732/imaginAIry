@@ -222,7 +222,7 @@ platformdirs==2.5.2
     #   pylint
 pluggy==1.0.0
     # via pytest
-protobuf==3.19.4
+protobuf==3.19.5
     # via
     #   imaginAIry (setup.py)
     #   tb-nightly
@@ -259,7 +259,7 @@ pytest==7.1.3
     # via -r requirements-dev.in
 python-dateutil==2.8.2
     # via matplotlib
-pytorch-lightning==1.4.2
+pytorch-lightning==1.6.0rc0
     # via imaginAIry (setup.py)
 pywavelets==1.4.1
     # via scikit-image
@@ -401,7 +401,7 @@ werkzeug==2.2.2
     # via
     #   tb-nightly
     #   tensorboard
-wheel==0.37.1
+wheel==0.38.0
     # via
     #   tb-nightly
     #   tensorboard
