@@ -379,7 +379,7 @@ tqdm==4.64.1
     #   pytorch-lightning
     #   realesrgan
     #   transformers
-transformers==4.19.2
+transformers==4.23.0
     # via imaginAIry (setup.py)
 typer==0.6.1
     # via pycln
