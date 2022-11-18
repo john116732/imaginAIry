@@ -206,7 +206,7 @@ pathspec==0.9.0
     # via
     #   black
     #   pycln
-pillow==9.2.0
+pillow==9.3.0
     # via
     #   basicsr
     #   diffusers
@@ -222,7 +222,7 @@ platformdirs==2.5.2
     #   pylint
 pluggy==1.0.0
     # via pytest
-protobuf==3.19.4
+protobuf==3.19.5
     # via
     #   imaginAIry (setup.py)
     #   tb-nightly
@@ -401,7 +401,7 @@ werkzeug==2.2.2
     # via
     #   tb-nightly
     #   tensorboard
-wheel==0.37.1
+wheel==0.38.0
     # via
     #   tb-nightly
     #   tensorboard
