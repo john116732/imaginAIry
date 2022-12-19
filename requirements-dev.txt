@@ -340,7 +340,7 @@ tomlkit==0.11.4
     # via
     #   pycln
     #   pylint
-torch==1.12.1
+torch==1.13.1
     # via
     #   basicsr
     #   diffusers
