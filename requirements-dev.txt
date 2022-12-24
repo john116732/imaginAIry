@@ -401,7 +401,7 @@ werkzeug==2.2.2
     # via
     #   tb-nightly
     #   tensorboard
-wheel==0.37.1
+wheel==0.38.0
     # via
     #   tb-nightly
     #   tensorboard
