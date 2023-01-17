@@ -78,7 +78,7 @@ fsspec[http]==2022.8.2
     # via pytorch-lightning
 ftfy==6.1.1
     # via imaginAIry (setup.py)
-future==0.18.2
+future==0.18.3
     # via
     #   basicsr
     #   pytorch-lightning
