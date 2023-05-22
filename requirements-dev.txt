@@ -99,7 +99,7 @@ grpcio==1.49.0
     # via
     #   tb-nightly
     #   tensorboard
-huggingface-hub==0.9.1
+huggingface-hub==0.13.4
     # via
     #   diffusers
     #   transformers
