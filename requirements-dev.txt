@@ -279,7 +279,7 @@ regex==2022.9.13
     # via
     #   diffusers
     #   transformers
-requests==2.28.1
+requests==2.31.0
     # via
     #   basicsr
     #   diffusers
