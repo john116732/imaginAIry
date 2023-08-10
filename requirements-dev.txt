@@ -95,7 +95,7 @@ google-auth-oauthlib==0.4.6
     # via
     #   tb-nightly
     #   tensorboard
-grpcio==1.49.0
+grpcio==1.53.2
     # via
     #   tb-nightly
     #   tensorboard
