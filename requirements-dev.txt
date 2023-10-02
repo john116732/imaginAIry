@@ -186,7 +186,7 @@ oauthlib==3.2.1
     # via requests-oauthlib
 omegaconf==2.1.1
     # via imaginAIry (setup.py)
-opencv-python==4.6.0.66
+opencv-python==4.8.1.78.66
     # via
     #   basicsr
     #   facexlib
