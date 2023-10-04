@@ -393,7 +393,7 @@ typing-extensions==4.3.0
     #   typing-inspect
 typing-inspect==0.8.0
     # via libcst
-urllib3==1.26.12
+urllib3==1.26.17
     # via requests
 wcwidth==0.2.5
     # via ftfy
