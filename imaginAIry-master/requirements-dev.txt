@@ -28,7 +28,7 @@ basicsr==1.4.2
     # via
     #   gfpgan
     #   realesrgan
-black==22.8.0
+black==24.3.0
     # via -r requirements-dev.in
 cachetools==5.2.0
     # via google-auth
