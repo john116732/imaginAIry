@@ -103,7 +103,7 @@ huggingface-hub==0.9.1
     # via
     #   diffusers
     #   transformers
-idna==3.4
+idna==3.7
     # via
     #   requests
     #   yarl
@@ -379,7 +379,7 @@ tqdm==4.64.1
     #   pytorch-lightning
     #   realesrgan
     #   transformers
-transformers==4.19.2
+transformers==4.38.0
     # via imaginAIry (setup.py)
 typer==0.6.1
     # via pycln
