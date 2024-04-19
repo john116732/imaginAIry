@@ -10,7 +10,7 @@ absl-py==1.2.0
     #   tensorboard
 addict==2.4.0
     # via basicsr
-aiohttp==3.8.1
+aiohttp==3.9.4
     # via fsspec
 aiosignal==1.2.0
     # via aiohttp
@@ -340,7 +340,7 @@ tomlkit==0.11.4
     # via
     #   pycln
     #   pylint
-torch==1.12.1
+torch==2.2.0
     # via
     #   basicsr
     #   diffusers
