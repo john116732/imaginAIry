@@ -369,7 +369,7 @@ torchvision==0.13.1
     #   imaginAIry (setup.py)
     #   realesrgan
     #   timm
-tqdm==4.64.1
+tqdm==4.66.3
     # via
     #   basicsr
     #   facexlib
