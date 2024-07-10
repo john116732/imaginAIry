@@ -413,7 +413,7 @@ yapf==0.32.0
     #   gfpgan
 yarl==1.8.1
     # via aiohttp
-zipp==3.8.1
+zipp==3.19.1
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
