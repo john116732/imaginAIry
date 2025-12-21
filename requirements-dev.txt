@@ -61,7 +61,7 @@ facexlib==0.2.5
     #   realesrgan
 fairscale==0.4.9
     # via imaginAIry (setup.py)
-filelock==3.8.0
+filelock==3.20.1
     # via
     #   diffusers
     #   huggingface-hub
@@ -340,7 +340,7 @@ tomlkit==0.11.4
     # via
     #   pycln
     #   pylint
-torch==1.12.1
+torch==2.2.0
     # via
     #   basicsr
     #   diffusers
