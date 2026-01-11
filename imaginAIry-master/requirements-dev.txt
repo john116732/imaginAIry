@@ -10,7 +10,7 @@ absl-py==1.2.0
     #   tensorboard
 addict==2.4.0
     # via basicsr
-aiohttp==3.8.1
+aiohttp==3.13.3
     # via fsspec
 aiosignal==1.2.0
     # via aiohttp
@@ -340,7 +340,7 @@ tomlkit==0.11.4
     # via
     #   pycln
     #   pylint
-torch==1.12.1
+torch==2.9.0
     # via
     #   basicsr
     #   diffusers
@@ -393,11 +393,11 @@ typing-extensions==4.3.0
     #   typing-inspect
 typing-inspect==0.8.0
     # via libcst
-urllib3==1.26.12
+urllib3==2.6.3
     # via requests
 wcwidth==0.2.5
     # via ftfy
-werkzeug==2.2.2
+werkzeug==3.1.5
     # via
     #   tb-nightly
     #   tensorboard
