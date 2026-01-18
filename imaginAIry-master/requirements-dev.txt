@@ -61,7 +61,7 @@ facexlib==0.2.5
     #   realesrgan
 fairscale==0.4.9
     # via imaginAIry (setup.py)
-filelock==3.8.0
+filelock==3.20.3
     # via
     #   diffusers
     #   huggingface-hub
