@@ -229,7 +229,7 @@ protobuf==3.19.4
     #   tensorboard
 py==1.11.0
     # via pytest
-pyasn1==0.4.8
+pyasn1==0.6.2
     # via
     #   pyasn1-modules
     #   rsa
@@ -340,7 +340,7 @@ tomlkit==0.11.4
     # via
     #   pycln
     #   pylint
-torch==1.12.1
+torch==2.10.0
     # via
     #   basicsr
     #   diffusers
@@ -401,7 +401,7 @@ werkzeug==2.2.2
     # via
     #   tb-nightly
     #   tensorboard
-wheel==0.37.1
+wheel==0.46.2
     # via
     #   tb-nightly
     #   tensorboard
