@@ -222,7 +222,7 @@ platformdirs==2.5.2
     #   pylint
 pluggy==1.0.0
     # via pytest
-protobuf==3.19.4
+protobuf==6.33.5
     # via
     #   imaginAIry (setup.py)
     #   tb-nightly
@@ -340,7 +340,7 @@ tomlkit==0.11.4
     # via
     #   pycln
     #   pylint
-torch==1.12.1
+torch==2.10.0
     # via
     #   basicsr
     #   diffusers
